@@ -8,7 +8,7 @@ Projektet har til formål at præsentere data i to eller flere Machine Learning 
 ## Mit Projekt
 Jeg har valgt at tage udgangs punkt i en data omking video spil. Jeg har fundet et data sæt der sætter fokus på individuelle spils featuers, salg, spil længde, anmeldeses score m.m. for en dybere gennemgang af dataens documentation kan du klikke 
 
-(https://corgis-edu.github.io/corgis/csv/video_games/
+https://corgis-edu.github.io/corgis/csv/video_games/
 
 De mest væsentlige data linjer jeg har arbejdet med er
 - Metrics.Sales             - Spillets omsætning i mil. $  
