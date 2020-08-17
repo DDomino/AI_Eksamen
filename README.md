@@ -29,3 +29,6 @@ Modellerne i denne opgave er:
 - Linear Regression with multiple features
 - Decission Trees with Random Forest Classifiers
 - Natural Beyers Therom for Natural Language Processing
+
+
+Moden er skrevet i .ipynb (Jupyter notebook) - Opgaven har vedlagt .PDF af notebook koden
