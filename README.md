@@ -5,6 +5,13 @@
 
 Projektet har til formål at præsentere data i to eller flere Machine Learning algorithmer med fokus på et virkelig data. Med en vinkel på brug i den virkelig verden som et firma eller privat person eller noget ligende.
 
+## Case
+Jeg er et spil udviklings firma, som har fået til opgave at producere et spil, med højst mulig intægt. Spillets inden hold er irrelevent and spillets kvalitet er ikke vigtigt. Det eneste formål er at finde de parameter i et spil, der kan indsamle mig den højeste indtjening. Jeg vil gerne vide hvilke features jeg skal udsemig for at spillets anmeldese score kan sikre mig det største salg, ved hjælp af en linear reggresion.
+
+Jeg skal vide hvilke parameter der skal til for at ramme den bedste Review Socre for at kunne hjælpe min linear reggresion. Det kan jeg beslutte mig ved brug af en Random Forest Classifier. 
+
+Når jeg har fundet frem til spillets bedste score, udgivelseår, genre og antal spillere. Skal jeg udse mig den bedst muglige title til spillet ved hjælp af spillets genre. Problemet har jeg valgt at løse ved hjælp af Natural Beyers Therom med Natural Language Processing
+
 ## Mit Projekt
 Jeg har valgt at tage udgangs punkt i en data omking video spil. Jeg har fundet et data sæt der sætter fokus på individuelle spils featuers, salg, spil længde, anmeldeses score m.m. for en dybere gennemgang af dataens documentation kan du klikke 
 
